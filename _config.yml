@@ -1,3 +1,8 @@
+# Site settings
+title: Artists Theme
+email: artist@gmail.com
+description: "Thinker // Designer // YouTuber"
+
 # Build settings
 
 markdown: kramdown
