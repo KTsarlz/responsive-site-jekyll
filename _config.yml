@@ -1,0 +1,12 @@
+# Build settings
+
+markdown: kramdown
+permalink: pretty
+
+highlighter: rouge
+
+port: 4980
+
+sass:
+  sass_dir: assets/css
+  style: :nested
