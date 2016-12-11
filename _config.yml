@@ -3,6 +3,8 @@ title: Artists Theme
 email: artist@gmail.com
 description: "Thinker // Designer // YouTuber"
 
+avatar: travitar.jpg
+
 # Build settings
 
 markdown: kramdown
